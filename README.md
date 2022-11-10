@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/OrgKarishma/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/karishma-lab3.pipelines-java?branchName=main)](https://dev.azure.com/OrgKarishma/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
